@@ -1,0 +1,25 @@
+.nested-wrapper {
+  border: 1px solid;
+  margin: 6px;
+  padding: 8px 12px;
+  background-color: teal;
+  color: white;
+  border-radius: 8px;
+}
+
+.content {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0;
+}
+
+button {
+  background-color: grey;
+  outline: none;
+  border: none;
+  margin: 0 6px;
+  padding: 4px 12px;
+  color: white;
+  cursor: pointer;
+  border-radius: 6px;
+}

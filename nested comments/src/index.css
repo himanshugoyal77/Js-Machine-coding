@@ -1,0 +1,33 @@
+body {
+  padding: 2px;
+  height: 100%;
+  width: 100%;
+}
+
+.nested-comments {
+  position: absolute;
+  background-color: burlywood;
+  margin-left: 30px;
+}
+
+.input {
+  width: 100%;
+  border: 0.6px solid gray;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.inner-input {
+  min-width: 400px;
+  margin-top: 12px;
+  height: 20px;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  padding: 8px 5px;
+}
+
+.reply-wrapper {
+  display: flex;
+  
+}

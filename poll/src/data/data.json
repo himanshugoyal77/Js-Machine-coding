@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      {
+        "id": 0,
+        "title": "Option 1",
+        "votes": 4
+      },
+      { "id": 1, "title": "Option 2", "votes": 4 },
+      { "id": 2, "title": "Option 3", "votes": 2 }
+    ],
+    "totalVotes": 10
+  }
+]
