@@ -1,0 +1,31 @@
+.grid {
+  height: 320px;
+  width: 320px;
+  border: 1px solid #000;
+  display: grid;
+  gap: 20px;
+  place-items: center;
+  padding: 5px;
+}
+
+.grid-items {
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+}
+
+.show {
+}
+
+.visible {
+  opacity: 0.8;
+}
+
+.hide {
+  visibility: hidden;
+}
